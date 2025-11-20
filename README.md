@@ -4,4 +4,4 @@
 Website project implementation
 By: Leopoldo De Anda, Miguel Aquino, Alexander Mota 
 
-[Link to page](https://leodgrr.github.io/fall2025-lab5/)
+[Link to page](https://cyel88.github.io/websiteProject/)
