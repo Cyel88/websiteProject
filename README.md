@@ -1,7 +1,7 @@
-# CIS 3610 Fall 2025 Website Implementation
-## Implementation
+# CIS 3610 Fall 2025 Website Final Project
+## Website Final Project
 
-Website project implementation
+Website final project
 By: Leopoldo De Anda, Miguel Aquino, Alexander Mota 
 
 # Website Narrative
